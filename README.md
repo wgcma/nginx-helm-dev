@@ -1,4 +1,1 @@
-# nginx-helm-dev
-# nginx-helm-dev
-# nginx-helm-dev
-# nginx-helm-dev
+This is an infra testing repository.
